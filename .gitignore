@@ -1,3 +1,12 @@
-__pycache__/ 
-*.pyc 
-.venv/ 
+# Dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
